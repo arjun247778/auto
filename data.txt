@@ -1,0 +1,7 @@
+hello a am testing repo clonining
+git clone
+git add
+git commit
+git push
+git status
+
