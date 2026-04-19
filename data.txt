@@ -4,4 +4,14 @@ git add
 git commit
 git push
 git status
-
+git stash
+git revert 
+gti merge
+gti log
+git checkout
+git fetch
+git config
+git restore
+git diff
+git blame
+git rebase
